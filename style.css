@@ -6,7 +6,7 @@
 	box-sizing: border-box;
 }
 :root {
-	--primary-color: #ff7613;
+	--primary-color:aqua;
 	--text-color: #727171;
 }
 html {
@@ -14,7 +14,7 @@ html {
 }
 body {
 	font-family: Inter, sans-serif;
-	background-color: black;
+	background-color:black;
 	color: white;
 }
 
@@ -237,3 +237,16 @@ hr {
 		margin: 0 auto;
 	}
 }
+
+#hw:hover {
+	background-color:whitesmoke;
+  }
+
+  #jk {
+	border-radius: 50%;
+  }
+
+   #jk {
+	width: 100%;
+	height: auto;
+  }
